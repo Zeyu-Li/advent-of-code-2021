@@ -1,1 +1,1 @@
-*.py         export-ignore
+*.py         linguist-generated=false
