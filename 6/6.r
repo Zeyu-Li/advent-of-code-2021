@@ -3,7 +3,7 @@ file <- "6.in"
 state <- as.numeric(read.csv(file, header = FALSE, sep = ",")[1,])
 state <- state + replicate(length(state), 1)
 
-# brute force is too slow :(
+# brute force is too slow for part two :(
 for (iter in 0:iterations)
 {
     state_length <- length(state)
