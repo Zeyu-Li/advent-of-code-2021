@@ -1,6 +1,6 @@
 
 lines = []
-with open('in.in', 'r') as fp:
+with open('1.in', 'r') as fp:
     lines = list(map(int, fp.readlines()))
 
 # print(len(lines))

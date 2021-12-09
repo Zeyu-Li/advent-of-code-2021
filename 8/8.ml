@@ -3,12 +3,12 @@ module M = Map.Make(String)
 let file = "8.in"
 let line_count = 200
 let counter = ref 0
-let lines = []
+(* let lines = [] *)
 
 
 let next_val = 
     fun (addition) ->
-    printf "%d\n" addition;
+        (* printf "%d\n" addition; *)
         counter := (!counter) + addition;
         !counter
 
@@ -49,7 +49,8 @@ let () =
     try 
         for i = 1 to line_count do 
             let line = input_line ic in (* read line, discard \n *)
-                line |> String.split_on_char '|' |> List.rev |> List.hd |> String.split_on_char ' ' |> List.filter (fun s -> s <> "") |> sum |> next_val;
+                (* line |> String.split_on_char '|' |> List.rev |> List.hd |> String.split_on_char ' ' |> List.filter (fun s -> s <> "") |> String.concat " "  |> print_endline; *)
+                line |> String.split_on_char '|' |> List.rev |> List.hd |> String.trim |> String.split_on_char ' ' |> List.filter (fun s -> s <> "") |> List.fold_left (fun acc x -> acc + (if List.mem (String.length x) [2;3;4;7] then 1 else 0)) 0 |> next_val;
             
             (* write the result to stdout *)
             (* line::lines;
