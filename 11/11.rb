@@ -1,3 +1,5 @@
+# to run do `ruby 11.rb`
+
 def increment(state)
     for i in 0..11
         for j in 0..11

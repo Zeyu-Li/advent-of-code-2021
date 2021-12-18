@@ -1,3 +1,4 @@
+' run with `dotnet run` and paste in input + hit enter
 Imports System
 
 Module Program

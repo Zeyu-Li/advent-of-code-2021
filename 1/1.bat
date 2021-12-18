@@ -1,6 +1,8 @@
+@REM run with `./1.bat`
 @echo off
 setlocal EnableExtensions 
 setlocal enableDelayedExpansion 
+
 @REM for /F %%i in (1.in) do
 @REM     @echo %%i
 

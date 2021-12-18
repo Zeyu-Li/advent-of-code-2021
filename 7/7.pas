@@ -1,3 +1,4 @@
+// run with `fpc 7.pas && ./7`
 program Main;
 
 uses SysUtils, StrUtils;

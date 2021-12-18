@@ -1,3 +1,4 @@
+# run with `julia 4.jl`
 using Printf
 
 function toInt(str)::Int64

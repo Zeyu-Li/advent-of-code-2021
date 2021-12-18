@@ -1,3 +1,4 @@
+# run with `Rscript 6.r`
 iterations <- 79
 file <- "6.in"
 state <- as.numeric(read.csv(file, header = FALSE, sep = ",")[1,])

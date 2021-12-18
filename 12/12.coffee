@@ -1,3 +1,4 @@
+# To run do `coffee 12.coffee`
 fs = require 'fs'
 file = '12.in'
 
@@ -23,6 +24,7 @@ add_to_adj = (item) -> (
 new_list = foo().split('\n').map((item) -> item.replace(/\r|\n/g, ''))
 add_to_adj item for item in new_list
 
+# DFS
 queue = [['start',]]
 paths = new Set()
 

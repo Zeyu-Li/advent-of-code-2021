@@ -1,4 +1,5 @@
        >>SOURCE FORMAT FREE
+*> To run do `cobc -x 9.cob && ./9`
 IDENTIFICATION DIVISION.
 program-id. main8.
 author. Andrew.
@@ -99,6 +100,6 @@ PERFORM UNTIL lineCounter = 102
        COMPUTE lineCounter = lineCounter + 1
 END-PERFORM
 
-DISPLAY "Count" SPACE Total
+DISPLAY "Count:" SPACE Total
 
 STOP RUN.

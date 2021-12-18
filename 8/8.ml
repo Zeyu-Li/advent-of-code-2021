@@ -1,3 +1,4 @@
+(* To run do `ocaml 8.ml` *)
 open Format
 module M = Map.Make(String)
 let file = "8.in"

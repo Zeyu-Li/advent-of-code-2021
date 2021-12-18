@@ -1,3 +1,4 @@
+// run with `gdc d.d && ./a.out`
 import std.stdio;
 import std.math;
 import std.file;
