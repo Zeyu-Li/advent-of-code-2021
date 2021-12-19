@@ -7,3 +7,6 @@ TODO.md
 *.ali
 12/12
 9/9.so
+13/a.clj
+13/input/day_13.txt
+13/test.clj
