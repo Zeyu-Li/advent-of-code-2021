@@ -34,7 +34,7 @@ Let's do a new programing language I've never touched before every day (⓿_⓿)
 
 \* Note: I am only doing part 1 because I don't hate myself that much 😳 (JK I did #11 because it had the least amount of ppl on just part 1)
 
-[I think these later ones are too hard and time consuming without dynamic and easily usable arrays, hashmaps and other useful data structures and take twice the time because I need to solve it first then implement it in some programming language I've never done before]
+[I think these later ones are too hard and time consuming without dynamic and easily usable arrays, hashmaps and other useful data structures and take twice the time because I need to solve it first then implement it in some programming language I've never done before | If you are curious I was planning on picking from these languages: elm, zig, swift, standard ML, Solidity, holyC, erlang, elixir]
 
 ## License
 
