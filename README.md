@@ -25,7 +25,7 @@ Let's do a new programing language I've never touched before every day (⓿_⓿)
 * Day 17: Nix
 * Day 18: 
 * Day 19: 
-* Day 20: 
+* Day 20: Ada
 * Day 21: Prolog
 * Day 22: 
 * Day 23: 
