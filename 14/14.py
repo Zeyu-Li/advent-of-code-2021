@@ -25,7 +25,8 @@ for _ in range(10):
 
     string = new_string
 
-print(len(string))
+# print(len(string))
 
+# could use an accumulate in this step
 counts = [string.count(char) for char in set(string)]
 print(max(counts) - min(counts))
