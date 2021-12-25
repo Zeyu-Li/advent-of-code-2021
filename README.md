@@ -19,9 +19,9 @@ Let's do a new programing language I've never touched before every day (⓿_⓿)
 * Day 11: Ruby
 * Day 12: CoffeeScript
 * Day 13: Clojure
-* Day 14: AWK
+* Day 14: Scala
 * Day 15: Dart
-* Day 16: Scala
+* Day 16: AWK
 * Day 17: Nix
 * Day 18: 
 * Day 19: 
