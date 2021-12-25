@@ -25,7 +25,7 @@ Let's do a new programing language I've never touched before every day (⓿_⓿)
 * Day 17: Nix
 * Day 18: 
 * Day 19: 
-* Day 20: Ada
+* Day 20: Ada (In progress)
 * Day 21: Prolog
 * Day 22: 
 * Day 23: 
@@ -33,6 +33,8 @@ Let's do a new programing language I've never touched before every day (⓿_⓿)
 * Day 25: 
 
 \* Note: I am only doing part 1 because I don't hate myself that much 😳 (JK I did #11 because it had the least amount of ppl on just part 1)
+
+[I think these later ones are too hard and time consuming without dynamic and easily usable arrays, hashmaps and other useful data structures and take twice the time because I need to solve it first then implement it in some programming language I've never done before]
 
 ## License
 
